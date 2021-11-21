@@ -1,4 +1,5 @@
-![LenniOS](banner.png)
+<center> <img src="banner.png"> </center>
+
 
 
 
