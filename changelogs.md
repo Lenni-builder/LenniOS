@@ -1,3 +1,9 @@
+![LenniOS](banner.png)
+
+
+
+Links: [Home Page](index.html) -- [Join the LenniOS Discord server](http://dsc.gg/LenniOS) -- [Go to my online games website](http://onlinegames.unaux.com) -- [About LenniOS](about.html) -- [Changelogs](changelogs.html)
+
 **Version 0.5:**
 > - Added two themes: XP and LenniOS
 > - Added a Theme-switch menu
