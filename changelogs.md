@@ -12,15 +12,15 @@ Links: [Home Page](index.html) -- [Join the LenniOS Discord server](http://dsc.g
 
 
 **Version 0.6:**
-made a completely new theme changer and added a few new wallpapers.
+> - made a completely new theme changer and added a few new wallpapers.
 
 
 **Version 0.7:** (19.09.2021)
-> -added WindowsLB again!
-> -added the LenniOS bootloader
->        -> added LenniOS and WindowsLB to the bootloader
+> - added WindowsLB again!
+> - added the LenniOS bootloader
+> - added LenniOS and WindowsLB to the bootloader
 > - added the game "crab vs strawberry" by kuals to LenniOS
-> -The shutdown button in the start menu now works!
+> - The shutdown button in the start menu now works!
 > - and many other things, like a seperate bootscreen for WindowsLB
 
 **Version 0.8:** (14.10.2021)
