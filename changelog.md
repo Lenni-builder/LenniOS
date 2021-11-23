@@ -1,4 +1,4 @@
-# Changelogs
+# LenniOS Changelogs
 
 
 **Version 0.5:**
