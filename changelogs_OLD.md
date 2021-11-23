@@ -1,6 +1,6 @@
 <center> <a href="index.html"><img src="banner.png"></a> </center>
 
-
+# THIS CHANGELOGS SITES IS OLD! Updated site here: [New site](changelogs.html)
 
 
 Links: [Home Page](index.html) -- [Join the LenniOS Discord server](http://dsc.gg/LenniOS) -- [Go to my online games website](http://onlinegames.unaux.com) -- [About LenniOS](about.html) -- Changelogs
