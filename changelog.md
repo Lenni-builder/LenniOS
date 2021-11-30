@@ -29,3 +29,11 @@
 **Changelog 0.8 _Horror Edition_:** (31.10.2021)
 > - added many spooky features
 > - i won't spoil anything else here! Find it out yourself!
+
+**LenniOS 0.9:** (2021-11-30)
+> - Updated BIOS screen
+> - New bootloader
+> - Added a trasperency setting to the design menu
+> - The "About"-window is now draggable!
+> - Updated mouse cursors (I am going to add a mouse settings page to the next version where you can still choose the old cursors)
+> - I hope I did not forget anything ;D
